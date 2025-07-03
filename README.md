@@ -1,0 +1,55 @@
+# 👩‍💻 Sobre mim
+
+Olá! Eu sou a **Paloma**, apaixonada por dados, tecnologia. 🌱  
+Atualmente, estou aprofundando meus conhecimentos em **Ciência de Dados**.
+
+---
+
+## 🧠 O que eu estudo e pratico
+
+- 📊 **Ciência de Dados com Python**
+  - pandas, matplotlib, seaborn
+  - análise de dados em planilhas (Excel, Google Sheets)
+  - visualização de dados
+
+- 🛠️ **Ferramentas**
+  - Google Colab
+  - Jupyter Notebook
+  - Google Planilhas
+
+- 🧰 **Etapas de um pipeline de dados**
+  - Importação de dados (CSV, JSON, HTML, APIs)
+  - Limpeza e normalização
+  - Análise exploratória
+
+---
+
+## 🚀 Projetos em andamento
+
+- 📈 Visualização de dados populacionais a partir de arquivos HTML
+- 📉 Extração de informações de ECGs para identificar padrões cardíacos
+- 🧾 Automação de leitura e análise de planilhas com pandas
+
+---
+
+## 🎯 Objetivo
+
+Seguir evoluindo como **Cientista de Dados**, integrando conhecimento técnico com áreas aplicadas. Sempre buscando aprender de forma prática e progressiva.
+
+---
+
+## ✨ Curiosidades
+
+- 💓 Interesso-me por cruzamentos entre **tecnologia e saúde**.
+- 📚 Gosto de aprender visualmente, com gráficos, exemplos reais e projetos práticos.
+- 🤝 Estou sempre aberta a aprender, trocar ideias e colaborar.
+
+---
+
+## 📬 Contato
+
+📧 palomaribeiro.DS@outlook.com  
+---
+📍 Brasil  
+---
+💼 [LinkedIn](https://www.linkedin.com/) (www.linkedin.com/in/palomaribeiro-analistadedados)
