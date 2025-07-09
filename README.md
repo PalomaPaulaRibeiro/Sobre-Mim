@@ -26,7 +26,7 @@ Atualmente, estou aprofundando meus conhecimentos em **Ciência de Dados**.
 
 ## 🚀 Projetos em andamento
 
-- 📈 Visualização de dados populacionais a partir de arquivos HTML
+- 📈 Visualização de dados
 - 📉 Extração de informações de ECGs para identificar padrões cardíacos
 - 🧾 Automação de leitura e análise de planilhas com pandas
 
