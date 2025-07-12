@@ -40,7 +40,6 @@ Seguir evoluindo como **Cientista de Dados**, integrando conhecimento técnico c
 
 ## ✨ Curiosidades
 
-- 💓 Interesso-me por cruzamentos entre **tecnologia e saúde**.
 - 📚 Gosto de aprender visualmente, com gráficos, exemplos reais e projetos práticos.
 - 🤝 Estou sempre aberta a aprender, trocar ideias e colaborar.
 
