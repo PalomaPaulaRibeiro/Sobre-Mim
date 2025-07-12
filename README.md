@@ -8,8 +8,8 @@ Atualmente, estou aprofundando meus conhecimentos em **Ciência de Dados**.
 ## 🧠 O que eu estudo e pratico
 
 - 📊 **Ciência de Dados com Python**
-  - pandas, matplotlib, seaborn
-  - análise de dados em planilhas (Excel, Google Sheets)
+  - pandas, matplotlib, seaborn, plotly
+  - análise de dados
   - visualização de dados
 
 - 🛠️ **Ferramentas**
@@ -27,7 +27,7 @@ Atualmente, estou aprofundando meus conhecimentos em **Ciência de Dados**.
 ## 🚀 Projetos em andamento
 
 - 📈 Visualização de dados
-- 📉 Extração de informações de ECGs para identificar padrões cardíacos
+- 📉 Extração de informações 
 - 🧾 Automação de leitura e análise de planilhas com pandas
 
 ---
